@@ -1,1 +1,5 @@
 DOTA2 heroes:
+Chen
+Dazzle
+Jakiro
+Magnus
