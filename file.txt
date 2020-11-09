@@ -1,4 +1,5 @@
 DOTA2 heroes:
+Zeus +100500
 Chen
 Dazzle
 
