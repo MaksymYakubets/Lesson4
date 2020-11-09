@@ -1,5 +1,7 @@
 DOTA2 heroes:
 Chen
 Dazzle
-Jakiro
+
+
+Void Spirit
 Magnus
