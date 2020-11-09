@@ -1,1 +1,4 @@
 Heroes:
+Sven
+Tiny
+Viper
